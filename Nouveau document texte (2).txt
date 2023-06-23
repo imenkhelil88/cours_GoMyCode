@@ -1,0 +1,9 @@
+html:
+<a> link href
+
+div
+ comment ecrire un commentaire
+html abreviation
+famma paire et imaipre
+tnajem t7ot tableau fi wost tableau
+comment on ecrit une balise <></>

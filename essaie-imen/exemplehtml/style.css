@@ -1,0 +1,41 @@
+*{
+
+}
+body{
+    background-color: white;
+}
+h1{
+    color: black;
+    font-size: 50px;
+    display: contents;
+}
+div{
+    border: 1px solid black;
+    margin: 3%;
+    padding: 3%;
+    text-align: center;
+}
+.image_logo{
+    padding-left: 20%;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    background-color: rgb(170, 167, 167);
+    font-weight: 200;
+}
+.nav-link navbar-brand{
+    color: black;
+    background-color: rgb(182, 177, 177);
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+table{
+    border:"1";
+}

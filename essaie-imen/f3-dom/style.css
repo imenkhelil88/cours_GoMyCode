@@ -1,0 +1,16 @@
+img{
+    border-radius: 150px;
+    height: 100px;
+    width: 100px;
+}
+body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    border: none;
+    width: 75px;
+    height: 30px;
+    border-radius: 25px;
+}
